@@ -44,7 +44,7 @@ NB : under windows the python command is not recognized as an internal command.
 
     How to use it ?
         Robot Framework is a generic open source automation framework. We will be used for test automation 
-        ![Robot Framework architecture](C:/Users/srzigui/Desktop/siwar/Sprint_2/Premier_exemple_Robot_Framework/Robot.PNG)
+   ![Robot](https://user-images.githubusercontent.com/113591126/211787530-9f7381b0-b89d-4d3d-99d3-9719b75547fb.PNG)
     
 
     Note: As you start the Robot Framework installation, you will get an error which is the Proxy error since the ACTIA network is protected.
